@@ -1,0 +1,27 @@
+*{
+margin: 0px;
+padding: 0px;
+font-family: "Tobias",serif;
+}
+
+main{
+    width: 100%;
+background:linear-gradient(to top,rgba(4, 9, 30, 0.75)50%,rgba(4, 9, 30, 0.75)50%),url(images\1.jpg);
+background-position: center;
+background-size:color ;
+height: 109vh;
+
+
+}
+.menu{
+    width: 400px;
+float: left;
+height: 70px;
+}
+
+ul{
+float: left;
+display: flex;
+justify-content: center;
+align-items: center;
+}

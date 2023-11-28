@@ -12,7 +12,7 @@ The Computer Science Department at the University of Ghana is dedicated to creat
 This website contains information about our academic programs, faculty profiles, ongoing research projects, and more.
 
 # CLONING AND SETTING UP THE PROJECT
-Repository Access
+
 
 Before you begin, make sure your system has the following installed:
 

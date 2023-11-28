@@ -11,6 +11,36 @@ The Computer Science Department at the University of Ghana is dedicated to creat
 
 This website contains information about our academic programs, faculty profiles, ongoing research projects, and more.
 
+# CLONING AND SETTING UP THE PROJECT
+Repository Access
+
+Before you begin, make sure your system has the following installed:
+
+Git: A distributed version control system for tracking source code changes.
+
+1)Create a folder on PC
+
+
+2)open the folder in terminal
+
+3)Cloning the Repository
+
+Follow these steps to clone the project repository to your local machine:
+
+
+
+Carry out the following command: git clone https://github.com/rayyaan143/DCIT_205_IA
+
+
+4)Open the clone folder in an IDE
+
+
+
+5)Work  the files in the IDE
+
+
+
+6)Open with the live server to view current changes
 
 
 
